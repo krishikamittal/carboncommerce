@@ -25,7 +25,3 @@ CarbonCommerce helps buyers compare suppliers on cost, carbon footprint, and rel
 - Database: PostgreSQL
 - AI: Gemini API
 
-
-npm install
-npm run dev
-```
