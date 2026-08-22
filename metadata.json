@@ -1,0 +1,6 @@
+{
+  "name": "CarbonCommerce",
+  "description": "AI-powered B2B procurement platform optimizing Cost, Carbon, and Reliability with live multi-criteria weighting and digital carbon passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
