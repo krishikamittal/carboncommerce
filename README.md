@@ -1,8 +1,6 @@
 # CarbonCommerce
 
-AI-powered B2B procurement platform that optimizes for Cost, Carbon, and Reliability — not just price.
-
-Built for UniHack (Hack2Skill) 2026.
+AI-powered B2B procurement platform that optimizes for Cost, Carbon, and Reliability, not just price.
 
 ## Problem Statement
 
@@ -10,7 +8,7 @@ Procurement decisions today are made almost entirely on price and delivery time,
 
 ## Solution
 
-CarbonCommerce helps buyers compare suppliers on cost, carbon footprint, and reliability side by side, using AI to recommend the most balanced option — then generates a verifiable digital carbon passport for every purchase.
+CarbonCommerce helps buyers compare suppliers on cost, carbon footprint, and reliability side by side, using AI to recommend the most balanced option, then generates a verifiable digital carbon passport for every purchase.
 
 ## Features
 
